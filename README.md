@@ -15,8 +15,8 @@ Follow these steps to set up and run the bot:
 
 1. **Clone or download the repository**
    ```sh
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Bennviddesign/Deathroll-Discord-Bot
+   cd Deathroll-Discord-Bot
    ```
 2. **Install dependencies**
    ```sh
