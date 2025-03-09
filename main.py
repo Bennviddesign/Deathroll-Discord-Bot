@@ -1,3 +1,9 @@
+# Discord Deathroll Bot
+# Created by Bennviddesign
+# GitHub Repo: https://github.com/Bennviddesign/Deathroll-Discord-Bot
+# Author GitHub: https://github.com/Bennviddesign
+# License: MIT
+
 import discord
 from discord.ext import commands
 import random

@@ -62,3 +62,10 @@ python main.py
    ```
 
 Enjoy playing Deathroll with your friends on Discord!
+
+## Credits
+
+This project was created by [Bennviddesign](https://github.com/Bennviddesign).  
+GitHub Repository: [Deathroll-Discord-Bot](https://github.com/Bennviddesign/Deathroll-Discord-Bot)
+
+Feel free to contribute or modify, but please give proper credit!
